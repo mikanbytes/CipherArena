@@ -1,4 +1,5 @@
 .app-shell {
   min-height: 100vh;
-  background: linear-gradient(180deg, #f1f5f9, #ffffff 45%, #f8fafc 100%);
+  position: relative;
+  z-index: 1;
 }
